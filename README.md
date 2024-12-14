@@ -1,2 +1,2 @@
-# javaki
+# javas
 my first repo
